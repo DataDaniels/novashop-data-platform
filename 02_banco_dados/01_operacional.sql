@@ -4,7 +4,9 @@
 -- =========================================================
 
 -- Criação do schema operacional
+'''sql
 CREATE SCHEMA IF NOT EXISTS operacional;
+'''
 
 -- =========================================================
 -- Tabela: pedido_item
